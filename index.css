@@ -1,0 +1,33 @@
+#topic >div{
+
+   width: 25%; 
+    background-color: aqua;
+}
+
+#topic{
+
+    display: flex;
+
+
+}
+
+#vide{
+
+    padding-left: 20px;
+
+}
+#buttons{
+
+
+    display: flex;
+    
+}
+#buttons > button{
+
+    color: wheat;
+    background-color: blueviolet;
+    width: 25%;
+    padding-left: 20px;
+    height: 25px;
+}
+
